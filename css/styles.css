@@ -32,7 +32,7 @@ h3{font-size: 28px;}
 #Download{text-align: center;}
 #iphone-mockup{transform: rotate(30deg); width: 35%; position: absolute;}
 #title{color: #000; background-color: #525252;}
-
+.dropdown-item:hover{background-color: #525252;}
 
 
     /*features*/
